@@ -1,2 +1,1 @@
-# epol_task
-EPOL_TASK
+Program code in main.cpp
